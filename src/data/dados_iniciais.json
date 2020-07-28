@@ -1,0 +1,70 @@
+{
+  "categorias": [
+    {
+      "titulo": "Grammar",
+      "cor": "#FAD000",
+      "link_extra": {
+        "text": "Grammar topics"
+      },
+      "videos": [
+        {
+          "titulo": "Aprenda o VERBO TO BE de uma vez por todas! #VEDA23",
+          "url": "https://www.youtube.com/watch?v=aV63Tqp-c2A&t=562s"
+        },
+        {
+          "titulo": "APRENDA 32 PHRASAL VERBS EM 12 MINUTOS | English in Brazil",
+          "url": "https://www.youtube.com/watch?v=o7S2lbZ3Y7w"
+        },
+        {
+          "titulo": "SUCH, SO, REALLY, VERY, PRETTY, KINDA | DICA #44",
+          "url": "https://www.youtube.com/watch?v=7x8LaWXVslg&list=PLFJshFlF-r5kP3IRPQn-UpZQJ8cjBcfKY&index=30"
+        },
+        {
+          "titulo": "Todos os tempos verbais em Inglês fácil - ( Aula de Inglês )",
+          "url": "https://www.youtube.com/watch?v=UV2sTEwjuIU"
+        },
+        {
+          "titulo": "APRENDA PRESENT PERFECT DE UMA VEZ",
+          "url": "https://www.youtube.com/watch?v=5A6gY5IWbpk"
+        },
+        {
+          "titulo": "ALREADY, EVER e YET | Qual a diferença?",
+          "url": "https://www.youtube.com/watch?v=MmPPjKstYZU"
+        },
+        {
+          "titulo": "Qual é a diferença entre OTHER e ANOTHER?",
+          "url": "https://www.youtube.com/watch?v=OlowLiigZ3k"
+        }    
+      ]
+    },
+    {
+      "titulo": "Tips",
+      "cor": "#EF062D",
+      "link_extra": {
+        "text": "Some tips"
+      },
+      "videos": [
+        {
+          "titulo": "NÃO DIGA AIN'T EM INGLÊS",
+          "url": "https://www.youtube.com/watch?v=O-TD_T2Q8zg&t=38s"
+        },
+        {
+          "titulo": "TESTE DE LISTENING: você consegue entender falantes nativos de inglês?",
+          "url": "https://www.youtube.com/watch?v=4rhYGjF8yZA"
+        },
+        {
+          "titulo": "4 DICAS PARA PENSAR EM INGLÊS",
+          "url": "https://www.youtube.com/watch?v=ax7UnxF78-M"
+        },
+        {
+          "titulo": "ROTEIRO PARA ESTUDAR INGLÊS EM CASA | English in Brazil",
+          "url": "https://www.youtube.com/watch?v=VHcmC8kOznM&t=289s"
+        },
+        {
+          "titulo": "Por Onde Começar A Aprender Inglês",
+          "url": "https://www.youtube.com/watch?v=v60kTZwSdQY"
+        }
+      ]
+    }
+  ]
+}
